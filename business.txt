@@ -1,0 +1,5 @@
+("artificial intelligence" OR "machine learning" OR "large language model" OR LLM OR "natural language processing" OR NLP)
+AND
+("personalized learning" OR "adaptive learning" OR "intelligent tutoring system" OR "learning path" OR "study plan")
+AND
+(student OR learner OR university OR education OR exam)
