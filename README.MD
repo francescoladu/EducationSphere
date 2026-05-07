@@ -95,3 +95,76 @@ The project is based on the following assumptions:
 The goal is to evaluate whether this AI-based business idea is feasible, valuable, and strategically sustainable.
 
 The project analyzes the problem, the market, competitors, business model, validation strategy, and possible risks in order to assess the potential of the proposed venture.
+
+
+## IDEA DI PARTENZA
+("artificial intelligence" OR "machine learning" OR "large language model" OR LLM OR "natural language processing" OR NLP)
+AND
+("personalized learning" OR "adaptive learning" OR "intelligent tutoring system" OR "learning path" OR "study plan")
+AND
+(student OR learner OR university OR education OR exam)
+
+idea del gpt:
+Scegliamo Education.
+Inventiamo una piattaforma AI che aiuta gli studenti universitari a preparare gli esami creando piani di studio personalizzati, quiz automatici e spiegazioni adattate al livello dello studente.
+
+Poi dovete spiegare:
+
+1. Qual è il problema?
+Gli studenti non sanno organizzare lo studio, perdono tempo, usano materiali confusi.
+
+2. Qual è la soluzione AI?
+Una piattaforma che analizza programma, appunti e livello dello studente e crea un percorso personalizzato.
+
+3. Chi sono i clienti?
+Studenti universitari, scuole private, università, tutor.
+
+4. Chi sono i competitor?
+ChatGPT, Quizlet, Duolingo, app di tutoring, piattaforme e-learning.
+
+5. Come fate soldi?
+Abbonamento mensile, licenza per università, versione premium.
+
+6. Quanto è grande il mercato?
+Stimate quanti studenti potrebbero usarla e quanto potrebbero pagare.
+
+7. Come testate l’idea?
+Survey a studenti, interviste, prototipo semplice, landing page, prova con 20 studenti.
+
+8. Perché potrebbe fallire?
+Studenti non pagano, risposte AI sbagliate, privacy dei dati, troppa concorrenza.
+
+9. Come riducete i rischi?
+Controllo qualità, partnership con docenti, prezzi bassi, protezione dati.
+
+Quindi il lavoro finale è tipo una presentazione/report di business plan per una startup AI. La struttura obbligatoria è: problema-soluzione, competitor, business model canvas, mercato, test, rischi.
+
+La cosa importante è che ogni scelta sia motivata: “abbiamo scelto questo settore perché c’è questo problema, ci sono dati disponibili, l’AI può dare valore, il mercato è interessante”.
+
+
+## Siti consigliati da cui prendere i Patents e roba varia 
+1. https://patentscope.wipo.int/search/en/search.jsf  --> Patents Internazionali
+2. https://worldwide.espacenet.com/ --> Europa
+3. http://patft.uspto.gov/netahtml/PTO/ --> US
+4. https://www.jpo.go.jp/e/support/j_platpat/patent_search.html --> Giappone
+5. https://www.lens.org/  --> (Worldwide patents & scientific literature) 
+
+## IP Offices websites 
+6. https://euipo.europa.eu/  (Trademarks and Designs)  
+7. http://www.uspto.gov/  (US Patents)      
+8. http://www.epo.org/   (EP Patents)         
+9. http://www.wipo.int/  (WO Patents)        
+
+## IPRs search engines (free) 
+10. http://worldwide.espacenet.com/ -->  (EP and worldwide patents) 
+11. https://patents.google.com/ -->  (Worldwide patents) 
+12. https://euipo.europa.eu/ -->   (Worldwide trademarks & design) 
+
+
+ ## Problemi da risolvere
+1. Problem/Solution Fit
+2. Competition analysis
+3. Business Model Canvas
+4. Market Estimation
+5. Market test
+6. Negative Back casting

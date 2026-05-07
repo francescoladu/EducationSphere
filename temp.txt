@@ -1,0 +1,41 @@
+L'idea che sta alla base è creare un'applicazione che offra le stesse cose che ci sono nel mercato* features per diifferenziarci in modo sia da attirare maggiromente l'attenzione degli studenti, sia guadagnare più soldi--> se offriamo gli stessi servizi che offrono le altre applicazioni MA con roba aggiuntiva possiamo permetterci di chiedere un prezzo più alto e siamo sicuri che le persone lo acquistano
+
+
+--> Features BANALI
+
+Riassunti automatici: Riassume slide, dispense, appunti
+Spiegazioni semplificate: Spiega un concetto “come se avessi 10 anni”
+Flash card automatiche: Crea carte domanda/risposta
+Quiz automatici generici: Genera domande a scelta multipla o vero/falso
+Piano di studio generico: Divide gli argomenti sui giorni disponibili
+Chatbot tutor generico: Risponde alle domande dello studente
+Correzione base delle risposte: Valuta se una risposta è corretta o sbagliata
+Traduzione appunti: Traduce materiali o appunti
+Riscrittura appunti:	Riformula testi in modo più chiaro
+Timer/Pomodoro: Gestione sessioni di studio
+Remainder di studio: Notifiche per ricordare di studiare
+Checklist argomenti: Lista degli argomenti da completare
+Generazione mappe concettuali base: Schema automatico da un testo
+Sintesi vocale/lettura appunti: Legge i materiali ad alta voce
+
+--> FEATURES CHE CI PERMETTONO LA DIFFERENTIATION NEL PERFECT MARKET:
+
+Exam Twin AI: Simula lo specifico esame universitario
+Oral Exam Simulator: Simula un esame orale con domande progressive
+Written Exam Simulator: Simula uno scritto con tempo, punteggio e difficoltà realistiche
+Knowledge Gap Map: Mappa le lacune concettuali dello studente
+Prerequisite Gap Detection: Scopre prerequisiti mancanti che bloccano l’apprendimento
+Risk of Failure Prediction: Stima il rischio di bocciatura prima dell’appello
+Adaptive Recovery Plan: Crea un piano di recupero in base al rischio e al tempo rimasto
+Past Exam Pattern Mining: Analizza appelli passati e pattern ricorrenti
+Syllabus-Based Prioritization: Decide priorità di studio in base al programma ufficiale
+Course-Grounded Tutor: Risponde solo usando materiali del corso/fonti approvate
+Hallucination-Controlled Answers: Segnala quando non ha fonti sufficienti per rispondere
+Difficulty-Controlled Quiz Generation: Genera quiz con difficoltà calibrata
+Personalized Exam Readiness Score: Calcola quanto lo studente è pronto per quello specifico esame
+Professor-Style Simulation: Simula stile e criteri di valutazione del docente
+Weakness-to-Exercise Matching: Associa ogni lacuna a esercizi mirati
+Concept Dependency Graph: Mostra relazioni tra concetti e prerequisiti
+Peer Benchmarking Anonimo: Confronta lo studente con profili simili in modo anonimo
+Intervention Recommendation Engine: Suggerisce azioni correttive specifiche
+Exam Strategy Optimizer: Suggerisce cosa studiare prima per massimizzare probabilità di superamento
