@@ -1,10 +1,23 @@
-Retrieval-augmented generation for educational application: A systematic survey
-
-https://doi.org/10.1016/j.caeai.2025.100417
-
-
-Adoption and Effectiveness of Artificial Intelligence Applications in Improving Student Educational Performance: A Case Study of Badakhshan University, Afghanistan:
-
-
-https://ojs.unimal.ac.id/game/article/view/25904
+Defining the problem:
+	- Clearly articulate the specific problem and identify who experiences it:
+		1. Smart Study Planner – AI-Based Personalized Time Management (RJ Wave): https://rjwave.org/ijedr/papers/IJEDR2601268.pdf
+		2. Evaluating AI-powered learning assistants in engineering higher education (ResearchGate, 2026: https://pmc.ncbi.nlm.nih.gov/articles/PMC12932848/
+	- Why current solutions fall short:
+		1. Impact of AI-Powered Adaptive Learning Platforms... Evidence From Structural Equation Modeling (IEEE Xplore, 2025): https://ieeexplore.ieee.org/document/11006699
+AI-Enabled Solution:
+	- personalization:
+		1. The Impact of Generative AI and RAG on Personalized Learning (MAKEBOT.AI, Oct 2024): https://www.makebot.ai/blog-en/the-impact-of-generative-ai-and-rag-on-personalized-learning
+	-  superior performance:
+		1. AI-Powered Tutoring System for Automatic Notes Summarization and Quiz Generation (RSIS International, Nov 2025): https://rsisinternational.org/journals/ijriss/view/ai-powered-tutoring-system-for-automatic-notes-summarization-and-quiz-generation
+	-  scalability:
+		1. The Future of AI Tutoring in Higher Ed (New America): https://www.newamerica.org/insights/the-future-of-ai-tutoring-in-higher-ed/
+Achieving Product–Market Fit:
+	- Identify the target customer segment:
+		1. Whether and When Could Generative AI Improve College Student Learning Engagement? (MDPI, 2025): https://www.mdpi.com/2076-328X/15/8/1011
+		2. Understanding higher education students' adoption of generative AI technologies: An empirical investigation using UTAUT2 (CEDTech, 2025): https://www.cedtech.net/article/understanding-higher-education-students-adoption-of-generative-ai-technologies-an-empirical-16039
+	- Demonstrating Why It Meets Needs Better Than Alternatives:
+		1. Analyzing the Impact of AI Tools on Student Study Habits and Academic Performance (arXiv, 2024) //against traditional method
+Logical Assumptions Foundation:
+	- 
+		
 
