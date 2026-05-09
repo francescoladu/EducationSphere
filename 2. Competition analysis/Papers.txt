@@ -1,0 +1,7 @@
+Competitive Analysis & Assessing Competitors:
+	- Incumbents:
+		1. What is Competitive Landscape of Chegg Company? - Porter's Five Forces (Porter's Analysis, Nov 2025): https://portersfiveforce.com/blogs/competitors/chegg
+		2. AI Startup Market Maps: Edtech Insiders (Public Services Alliance, Feb 2026): https://publicservicesalliance.org/2026/02/18/ai-startup-market-maps-edtech-insiders/
+	- Startups: none
+	- Substitute solutions without AI:
+		1. Analyzing the Impact of AI Tools on Student Study Habits and Academic Performance (Kent State University Research, March 2025): https://www.themoonlight.io/en/review/analyzing-the-impact-of-ai-tools-on-student-study-habits-and-academic-performance
