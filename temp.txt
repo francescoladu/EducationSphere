@@ -20,25 +20,14 @@ Sintesi vocale/lettura appunti: Legge i materiali ad alta voce
 
 --> FEATURES CHE CI PERMETTONO LA DIFFERENTIATION NEL PERFECT MARKET:
 
-1. --> CARATTERISTICA PRINCIPALE Exam Twin AI: Simula lo specifico esame universitario, scritto o orale, con struttura, tempo, difficoltà e criteri realistici
-
+1. Exam Twin AI: Simula lo specifico esame universitario, scritto o orale, con struttura, tempo, difficoltà e criteri realistici Oral Exam Simulator: Simula un esame orale con domande progressive
 2. Knowledge Gap Map: Mappa le lacune concettuali dello studente e collega ogni debolezza agli esercizi mirati
+3. Course-Grounded Tutor: Risponde usando solo materiali del corso/fonti approvate e segnala quando non ha fonti sufficienti--> problema dell'allucinazione
+4. Adaptive Study Strategy Engine: Suggerisce cosa studiare prima, quali azioni correttive fare e come ottimizzare il tempo rimasto
+5. Difficulty-Controlled Quiz Generation: Genera quiz con difficoltà calibrata
 
-3. Exam Readiness & Failure Risk Score	Calcola quanto lo studente è pronto e stima il rischio di bocciatura prima dell’appello
 
-4. Course-Grounded Tutor: Risponde usando solo materiali del corso/fonti approvate e segnala quando non ha fonti sufficienti
-
-5. Adaptive Study Strategy Engine: Suggerisce cosa studiare prima, quali azioni correttive fare e come ottimizzare il tempo rimasto
 
 
 --> per quanto riguarda il mercato, possiamo venderla come app utile per gente con problemi di apprendimento, a pagamento per gli studenti x, ma per ragazzi certificai possiamo fare convenzioni con scuole/uni comeè stato fatto con gemini, così da avere una parte del profitto già in tasca--> parte di strategia o bho? marketing? vale per gene non vedente? ? bho?
 
-
-
-Oral Exam Simulator: Simula un esame orale con domande progressive
-Prerequisite Gap Detection: Scopre prerequisiti mancanti che bloccano l’apprendimento
-Adaptive Recovery Plan: Crea un piano di recupero in base al rischio e al tempo rimasto
-Syllabus-Based Prioritization: Decide priorità di studio in base al programma ufficiale
-Difficulty-Controlled Quiz Generation: Genera quiz con difficoltà calibrata
-Concept Dependency Graph: Mostra relazioni tra concetti e prerequisiti
-Peer Benchmarking Anonimo: Confronta lo studente con profili simili in modo anonimo

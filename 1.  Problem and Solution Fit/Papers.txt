@@ -18,6 +18,5 @@ Achieving Product–Market Fit:
 	- Demonstrating Why It Meets Needs Better Than Alternatives:
 		1. Analyzing the Impact of AI Tools on Student Study Habits and Academic Performance (arXiv, 2024) //against traditional method
 Logical Assumptions Foundation:
-	- 
-		
-
+	-
+	
