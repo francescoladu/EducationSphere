@@ -1,173 +1,72 @@
-# AI-Driven Business Project
+# EducationSphere
 
-## Project Overview
+**An AI-powered study assistant for personalized and accessible university exam preparation.**
 
-This project presents an AI-driven business idea developed for the Business and Project Management course.  
-The goal of the project is to design a realistic AI-based venture, focusing not only on the technology itself, but also on its business value, market feasibility, competitive positioning, and strategic risks.
+> Academic project for the **Business and Project Management** course at the **University of Pisa** — Academic Year **2025/2026**.
 
-Our proposed solution is an AI-powered study assistant for university students. The platform helps students organize their exam preparation by generating personalized study plans, summaries, quizzes, and adaptive feedback based on their learning materials and available time.
+## Overview
 
-## Problem
+**EducationSphere** is a proposed EdTech platform designed to support university students throughout exam preparation. The idea is to bring course-specific learning assistance, realistic exam practice, progress assessment, and personalized study planning into a single system.
 
-University students often struggle to organize their study process effectively.  
-They usually have access to many different materials, such as lecture slides, notes, textbooks, and exercises, but they often do not know how to transform them into a clear and efficient study plan.
+Rather than simply providing answers, EducationSphere aims to help students **understand course content, identify knowledge gaps, and study more effectively**, with particular attention to accessibility.
 
-Current solutions are limited:
+## The Problem
 
-- traditional e-learning platforms provide mostly static content;
-- generic AI chatbots answer questions but do not offer a structured exam-oriented path;
-- private tutoring can be expensive and difficult to scale.
+University students often face several interconnected challenges:
 
-As a result, many students rely on inefficient study methods, such as passive reading, last-minute memorization, or unstructured online research.
+- **Time management:** balancing multiple subjects, deadlines, and exam dates.
+- **Fragmented materials:** organizing lecture notes, slides, exercises, and other resources.
+- **Exam uncertainty:** understanding their actual level of preparation and identifying weak topics.
+- **Limitations of generic AI tools:** receiving answers that may be inaccurate or insufficiently aligned with specific courses.
+- **Accessibility barriers:** studying with materials and formats that are not suitable for every learner.
 
-## Proposed Solution
+## Proposed Features
 
-The proposed platform uses Artificial Intelligence to support students during exam preparation.
+| Feature | Description |
+| --- | --- |
+| **Course-Grounded Tutor** | Provides explanations, summaries, and quizzes based on uploaded or approved course materials. |
+| **Exam Twin AI** | Simulates written and oral exams aligned with the course's structure and assessment style. |
+| **Knowledge Gap Map** | Identifies weak topics, missing prerequisites, and areas requiring further practice. |
+| **Adaptive Study Strategy Engine** | Adjusts a personalized study plan based on exam dates, available time, and learning progress. |
+| **Accessible Learning Mode** | Adapts study content and interaction formats to different accessibility and learning needs, including screen-reader compatibility. |
 
-The system can:
+These are **proposed product capabilities**, not features presented as already implemented.
 
-- analyze uploaded course materials;
-- identify key topics and concepts;
-- generate personalized study plans;
-- create summaries and explanations;
-- produce quizzes and practice questions;
-- adapt recommendations based on student performance.
+## Business and Research Analysis
 
-The main value of the solution is personalization. Each student receives a learning path adapted to his preparation level, available time, and exam deadline.
+The project investigates the feasibility and positioning of EducationSphere through:
 
-## Target Users
+- **Problem–solution fit and product–market fit:** defining the target audience and value proposition.
+- **Competitive analysis:** examining AI-native learning tools, established EdTech platforms, general-purpose AI assistants, and traditional tutoring.
+- **Business Model Canvas:** exploring a primarily **B2B/B2B2C** model centered on universities and student-support services, alongside potential freemium student access.
+- **Market sizing:** estimating the Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM).
+- **User research:** defining learner personas and testing assumptions through a **survey of 100 university students** and an **accessibility-focused interview**.
+- **Risk and feasibility assessment:** considering technical reliability, adoption, operating costs, privacy, copyright, and academic integrity.
+- **Patent landscape:** reviewing intellectual-property considerations relevant to the proposed platform.
 
-The initial target users are university students, especially those enrolled in technical and scientific degrees such as:
+The research highlights the importance of **course-grounded explanations, realistic exam simulations, and genuinely accessible learning materials**.
 
-- engineering;
-- computer science;
-- economics;
-- mathematics;
-- physics.
+## Project Materials
 
-These students often deal with complex topics, large amounts of material, and strict exam deadlines.
+| File | Contents |
+| --- | --- |
+| [**EducationSphere.pdf**](./EducationSphere.pdf) | Full project report: concept, research, business analysis, validation, and risk assessment. |
+| [**EducationSphere.pptx**](./EducationSphere.pptx) | Presentation summarizing the project and its main findings. |
 
-## Business Value
+## Project Status
 
-The platform creates value by helping students study more efficiently and prepare exams in a more structured way.
+**Academic concept and business feasibility study.** This repository documents the proposed product and the analysis carried out for the course; it does not represent a released or fully developed application.
 
-Possible revenue models include:
+## Authors
 
-- monthly subscription for students;
-- premium features;
-- university licenses;
-- partnerships with tutoring centers or educational institutions.
+- **Mattia Correnti**
+- **Francesco Ladu**
 
-## Project Structure
+**University:** University of Pisa  
+**Course:** Business and Project Management  
+**Professors:** Prof. Andrea Bonaccorsi and Prof. Filippo Chiarello  
+**Academic Year:** 2025/2026
 
-The project follows the required structure for the AI-Driven Business exam:
+---
 
-1. Problem--Solution Fit and Product--Market Fit  
-2. Competitor Analysis and Strategic Positioning  
-3. Business Model Canvas  
-4. Addressable Market Analysis  
-5. Personas and Validation Strategy  
-6. Failure Analysis and Risk Mitigation  
-
-## AI Role
-
-Artificial Intelligence is not used only as an additional feature, but as the core enabling technology of the business idea.
-
-AI supports the platform through:
-
-- Natural Language Processing for understanding learning materials;
-- Generative AI for creating summaries, quizzes, and explanations;
-- Machine Learning for adapting the study path to student performance;
-- Recommendation systems for prioritizing topics and exercises.
-
-## Main Assumptions
-
-The project is based on the following assumptions:
-
-- many students have difficulties organizing their study process;
-- students are willing to use AI tools if they improve exam preparation;
-- uploaded learning materials contain enough information to generate useful outputs;
-- personalization provides more value than generic educational content;
-- the solution can scale across different courses and universities.
-
-## Goal of the Project
-
-The goal is to evaluate whether this AI-based business idea is feasible, valuable, and strategically sustainable.
-
-The project analyzes the problem, the market, competitors, business model, validation strategy, and possible risks in order to assess the potential of the proposed venture.
-
-
-## IDEA DI PARTENZA
-("artificial intelligence" OR "machine learning" OR "large language model" OR LLM OR "natural language processing" OR NLP)
-AND
-("personalized learning" OR "adaptive learning" OR "intelligent tutoring system" OR "learning path" OR "study plan")
-AND
-(student OR learner OR university OR education OR exam)
-
-idea del gpt:
-Scegliamo Education.
-Inventiamo una piattaforma AI che aiuta gli studenti universitari a preparare gli esami creando piani di studio personalizzati, quiz automatici e spiegazioni adattate al livello dello studente.
-
-Poi dovete spiegare:
-
-1. Qual è il problema?
-Gli studenti non sanno organizzare lo studio, perdono tempo, usano materiali confusi.
-
-2. Qual è la soluzione AI?
-Una piattaforma che analizza programma, appunti e livello dello studente e crea un percorso personalizzato.
-
-3. Chi sono i clienti?
-Studenti universitari, scuole private, università, tutor.
-
-4. Chi sono i competitor?
-ChatGPT, Quizlet, Duolingo, app di tutoring, piattaforme e-learning.
-
-5. Come fate soldi?
-Abbonamento mensile, licenza per università, versione premium.
-
-6. Quanto è grande il mercato?
-Stimate quanti studenti potrebbero usarla e quanto potrebbero pagare.
-
-7. Come testate l’idea?
-Survey a studenti, interviste, prototipo semplice, landing page, prova con 20 studenti.
-
-8. Perché potrebbe fallire?
-Studenti non pagano, risposte AI sbagliate, privacy dei dati, troppa concorrenza.
-
-9. Come riducete i rischi?
-Controllo qualità, partnership con docenti, prezzi bassi, protezione dati.
-
-Quindi il lavoro finale è tipo una presentazione/report di business plan per una startup AI. La struttura obbligatoria è: problema-soluzione, competitor, business model canvas, mercato, test, rischi.
-
-La cosa importante è che ogni scelta sia motivata: “abbiamo scelto questo settore perché c’è questo problema, ci sono dati disponibili, l’AI può dare valore, il mercato è interessante”.
-
-
-## Siti consigliati da cui prendere i Patents e roba varia 
-1. https://patentscope.wipo.int/search/en/search.jsf  --> Patents Internazionali
-2. https://worldwide.espacenet.com/ --> Europa
-3. http://patft.uspto.gov/netahtml/PTO/ --> US
-4. https://www.jpo.go.jp/e/support/j_platpat/patent_search.html --> Giappone
-5. https://www.lens.org/  --> (Worldwide patents & scientific literature) 
-
-## IP Offices websites 
-6. https://euipo.europa.eu/  (Trademarks and Designs)  
-7. http://www.uspto.gov/  (US Patents)      
-8. http://www.epo.org/   (EP Patents)         
-9. http://www.wipo.int/  (WO Patents)        
-
-## IPRs search engines (free) 
-10. http://worldwide.espacenet.com/ -->  (EP and worldwide patents) 
-11. https://patents.google.com/ -->  (Worldwide patents) 
-12. https://euipo.europa.eu/ -->   (Worldwide trademarks & design) 
-
-
- ## Problemi da risolvere
-1. Problem/Solution Fit
-2. Competition analysis
-3. Business Model Canvas
-4. Market Estimation
-5. Market test
-6. Negative Back casting
-
-## link overleaf 
-https://overleaf.unipi.it/project
+*EducationSphere — Discover your gaps, ace your exams!*
